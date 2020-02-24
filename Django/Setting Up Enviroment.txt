@@ -15,10 +15,12 @@ first confirm python3 and pip3 are installed in your pc. (in windows python and 
 			virtualenv -p python3 myenv
 
 			virtualenv myenv (for windows user)
+			
+			python3 -m venv myenv ( mac users)
 
 #step 4	:	activate virtualenv, if (myenv) appeard in command line, it means virtual environment activate successfully
 
-			source myenv/bin/activate
+			source myenv/bin/activate (Linux/ Mac) 
 
 			.\myenv\scripts\activate (for windows user)
 
