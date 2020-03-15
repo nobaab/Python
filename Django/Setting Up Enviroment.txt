@@ -46,6 +46,7 @@ first confirm python3 and pip3 are installed in your pc. (in windows python and 
 
 you have successfully run your django project.
 
+python3 manage.py startapp pages
 
 
 
